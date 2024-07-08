@@ -1,10 +1,20 @@
 ## Hi there 👋
 
 ### 🦾 Skills
+
 **🧑‍💻 Lang and Frameworks**
+- Python
+- R
+- SQL
 
 
 **🛠️ Infra and Tools**
+
+
+**📃 paper**
+
+중소기업의 정보화 수준에 따른 비즈니스 프로세스 효율성 예측: 머신러닝 기반 분류 모델
+- DOI : 10.7737/JKORMS.2024.49.2.049
 
 
 <!--
