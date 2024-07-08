@@ -1,8 +1,8 @@
 # Hi there 👋   I'm Jiyeon Jeong
 
 ## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 
-
+- major: 
+- studying: Financial Data Analysis
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🛠️ skills: Python / R / SQL
@@ -15,6 +15,9 @@
 - (private_will be public) paper work (ML_XGBoost, Random Forest, Decision Tree, and Artificial Neural Network)
 - (private_will be public) competition (LLM)
 - 
+
+## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎
+
 
 <!--
 **JiyeonJeong02/JiyeonJeong02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
