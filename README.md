@@ -1,8 +1,8 @@
 # Hi there 👋   I'm Jiyeon Jeong
 
 ## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- major: 
-- studying: Financial Data Analysis
+- major: Bachelor of Business Administration and Accounting, Master of MIS(Management Information Systems)
+- interest: Business and Financial Data Analysis
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🛠️ skills: Python / R / SQL
