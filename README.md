@@ -3,6 +3,7 @@
 ## 📖 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 - major: Bachelor of Business Administration and Accounting, Master of MIS(Management Information Systems)
 - interest: Business and Financial Data Analysis
+- **I'm gonna be a KING CORN**
 
 ## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
 - 🛠️ skills: Python / R / SQL
